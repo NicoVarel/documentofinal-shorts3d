@@ -1,0 +1,1 @@
+Subí index.html y la carpeta videos/ al repositorio de GitHub Pages. El prompt instala exclusivamente https://github.com/NicoVarel/Shorts-zack-films-3d.
